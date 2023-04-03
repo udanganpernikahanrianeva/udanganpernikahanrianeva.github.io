@@ -8,11 +8,11 @@ $(document).ready(function() {
         $("#nama").val(untuk);
     }
 
-    $(".instagram-effects").slick({
-        dots: true,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-    });
+    // $(".instagram-effects").slick({
+    //     dots: true,
+    //     slidesToShow: 1,
+    //     slidesToScroll: 1,
+    // });
 
     $.ajax({
         //create an ajax request to display.php
