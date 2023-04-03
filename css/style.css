@@ -3,7 +3,7 @@
 body {
     margin: 0;
     font-family: 'Lato', sans-serif;
-    font-size: 20px;
+    font-size: 14px;
     line-height: 36px;
     font-weight: 400;
     -webkit-box-sizing: border-box;
@@ -30,7 +30,7 @@ a {
 
 .swiper-container {
     width: 100%;
-    height: 100vh;
+    height: 70vh;
 }
 
 .swiper-slide {
@@ -85,8 +85,8 @@ a {
     .swiper-button-next {
         display: none;
     }
-    h1 {
-        font-size: 24px;
+    p {
+        font-size: 14px;
     }
 }
 
