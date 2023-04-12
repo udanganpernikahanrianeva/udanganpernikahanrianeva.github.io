@@ -30,11 +30,11 @@ a {
 
 .swiper-container {
     width: 100%;
-    height: 55vh;
+    height: 450px;
 }
 
 .swiper-slide {
-    position: relative;
+    position: center;
     background-position: center;
     background-size: cover;
 }
